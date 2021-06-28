@@ -1,0 +1,33 @@
+---
+---
+
+html
+  height: 100%
+  background: hsl(0, 0%, 25%)
+
+svg
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  height: 360px
+  transition-property: blur, opacity
+  transition-duration: 0.4s
+  transition-timing-function: linear
+  transition-delay: 0s
+
+.hidden
+  opacity: 0
+  filter: blur(3px)
+
+rect, path
+  fill: white
+  stroke: red
+
+body
+  //display: flex
+  height: 100%
+  flex-direction: row
+  justify-content: center
+  align-items: center
+  margin: 0px

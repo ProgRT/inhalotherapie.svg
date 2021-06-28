@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="débit.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="2.6469764"
+     inkscape:cx="72.346697"
+     inkscape:cy="82.73591"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       color="#3f8bff"
+       opacity="0.1254902"
+       spacingx="0.79375"
+       spacingy="0.79375" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 19.429212,15.807207 A 6.0847744,6.0847744 0 0 0 15,21.661149 v 63.204869 a 6.0841659,6.0841659 0 0 0 6.082786,6.082787 6.0841659,6.0841659 0 0 0 6.082787,-6.082787 V 40.632945 C 47.876296,68.841479 67.241877,81.44389 85.409727,88.785874 v 69.538636 a 6.0847744,6.0847744 0 0 0 11.833383,2.00791 c 9.86412,-28.26053 28.97373,-52.10845 64.4229,-70.040615 a 6.0841659,6.0841659 0 0 0 2.67967,-8.171897 6.0841659,6.0841659 0 0 0 -8.17189,-2.687058 c -27.34407,13.832155 -46.09508,31.78524 -58.59111,52.31639 V 84.866018 A 6.0847744,6.0847744 0 0 0 93.640683,79.1671 C 72.31663,71.128191 51.771074,60.046679 26.272349,18.479498 a 6.0847744,6.0847744 0 0 0 -6.843137,-2.672291 z"
+       id="path828"
+       style="stroke-width:0;" />
+  </g>
+</svg>

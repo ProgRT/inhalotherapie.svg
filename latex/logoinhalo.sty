@@ -1,0 +1,74 @@
+\ProvidesPackage{logoinhalo}[2020/08/05 Logos évoquant la profession
+d'inhalothérapeute]
+
+\RequirePackage{tikz}
+\RequirePackage{graphicx}
+\usetikzlibrary{shapes.geometric}
+
+\tikzset{
+	logotext/.style={
+		font=\fontfamily{\sfdefault}\fontsize{11}{6}\bfseries\selectfont,
+	},
+	debit/.pic={
+		\draw [
+			cap=round, 
+			line join=round, 
+			line width=1.3mm,
+		] (-1,0) to (-1,1) to[bend right] (0,0) to (0,-1) to[bend left] (1,0);
+	},
+	logoinhdebit/.pic={
+		\node[
+			draw,
+			regular polygon,
+			regular polygon sides=6,
+			shape border rotate=30,
+			minimum size=5cm,
+			line width=.8mm,
+			rounded corners=0.7mm
+		] {};
+		\node[logotext, scale=1.5] at(0,1.4) {INHALO};
+		\node[logotext, scale=0.85] at(0,-1.3) {THÉRAPEUTE};
+		\pic [scale=0.85]{debit};
+	}
+} 
+
+\pgfkeys{
+/logoinhalo/.cd,
+%fill/.style={/tikz/vdrhexagon/.append style={fill=#1}},
+%thin/.style={
+%	/tikz/vdrhexagon/.append style={thin},
+%	/tikz/vdrplot/.append style={thin},
+%	},
+%fg/.style={
+%	/tikz/vdrhexagon/.append style={draw=#1},
+%	/tikz/logoinhalonode/.append style={#1},
+%	/tikz/vdrplot/.append style={draw=#1},
+%	},
+height/.store in=\logoinhaloheight,
+width/.store in=\logoinhalowidth,
+}
+
+\def\drawlogoinhalo{
+	\begin{tikzpicture}
+		\pic {logoinhdebit};
+	\end{tikzpicture}
+}
+
+\providecommand{\logoinhalo}[1][]{%
+	\def\logoinhalowidth{2.5cm}%
+%	\pgfkeys{
+%		/logoinhalo/.cd, 
+		%		fill=none,
+%		fg=black,
+%		}%
+	\pgfkeys{/logoinhalo/.cd, #1}%
+	\@ifundefined{logoinhaloheight}{%
+\resizebox{\logoinhalowidth}{!}{\drawlogoinhalo}%
+	}{%
+\resizebox{!}{\logoinhaloheight}{\drawlogoinhalo}%
+	}%
+}
+
+%\providecommand{\logoinhalo}[1][]{%
+%	\resizebox{!}{2cm}{\drawlogoinhalo}
+%}

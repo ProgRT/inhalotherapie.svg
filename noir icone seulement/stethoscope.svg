@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg1236"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="stethoscope.svg"
+   style="stroke: red;"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns0="http://sodipodi.sourceforge.net/DTD/inkex-0.dtd">
+  <sodipodi:namedview
+     id="namedview1238"
+     pagecolor="#5f5f5f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     scale-x="0.26458"
+     inkscape:zoom="1.222639"
+     inkscape:cx="376.64429"
+     inkscape:cy="145.58672"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     showguides="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10282"
+       spacingx="3"
+       spacingy="3" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1233">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6874"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <style
+       id="style7266"><![CDATA[
+.class1 { 
+    stroke:none;
+    stroke-dasharray:none;
+    stroke-linejoin:round;
+    stroke-miterlimit:4;
+    stroke-opacity:3;
+}
+]]></style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer1"
+     style="display:inline">
+    <path
+       id="ellipse2023"
+       style="color:#000000;display:inline;stroke:none;stroke-width:8.23682;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:fill markers stroke"
+       transform="matrix(-0.98480775,0.17364818,0.17364818,0.98480775,120,1.506434)"
+       d="m 53.404102,1.9864916 a 5,4 0 0 1 -5,4 5,4 0 0 1 -5,-4 5,4 0 0 1 5,-4 5,4 0 0 1 5,4 z M 39.309406,0.1647779 c -1.130714,0.17383536 -2.146375,0.49225892 -3.049185,0.9620701 -1.80562,0.9396224 -3.076373,2.490791 -3.804757,4.3141214 -1.456768,3.64666 -1.069184,8.3420466 -0.04104,13.5568346 2.056298,10.429574 6.993619,23.095074 8.504961,31.66632 L 43.873814,50.14318 C 42.259492,40.987905 37.323412,28.394207 35.356415,18.417571 34.372916,13.429252 34.210428,9.136068 35.24187,6.554104 35.757593,5.2631218 36.491738,4.388535 37.645721,3.7880156 38.799705,3.1874969 40.457024,2.8710361 42.799755,3.0656465 L 43.049762,0.07444637 C 41.686733,-0.03878028 40.44012,-0.00905706 39.309406,0.1647779 Z M 68.67291,-0.7058112 a 4,5 70 0 0 6.066544,2.0486698 4,5 70 0 0 3.330382,-5.4688712 4,5 70 0 0 -6.066544,-2.0486698 4,5 70 0 0 -3.330382,5.4688712 z m 12.621619,-6.532521 c 1.121979,-0.2233751 2.185295,-0.2715312 3.194344,-0.1388323 2.018098,0.2653976 3.742746,1.2883962 5.050819,2.7526444 2.616145,2.9284956 3.857852,7.4732768 4.67527,12.7252225 1.634836,10.5038896 1.327128,24.0942286 2.83847,32.6654756 l -2.954423,0.520945 C 92.484687,32.131848 92.815787,18.609404 91.251948,8.5616806 90.47003,3.5378176 89.154363,-0.55203026 87.30204,-2.6255086 c -0.926162,-1.036739 -1.915159,-1.6074895 -3.204938,-1.7771075 -1.28978,-0.1696173 -2.955387,0.099844 -5.090273,1.0839787 l -1.25798,-2.7253014 c 1.242102,-0.5725817 2.423702,-0.9710179 3.54568,-1.1943934 z M 100.26721,41.716109 c 1.45864,8.272377 0.13564,16.073183 -4.447834,22.048734 -3.843945,5.011419 -9.793009,8.414731 -17.245232,10.410576 l 8.995111,51.013811 c 1.371217,7.77655 -1.550288,16.83788 -7.337528,24.91635 -5.787239,8.07849 -14.813167,15.1244 -26.469351,17.14789 C 42.119208,169.2747 31.259108,165.73904 23.09286,160.13112 14.926613,154.52321 9.1219572,147.01239 7.7954185,139.22973 5.7936383,127.48547 -1.923114,84.113192 -1.923114,84.113192 l 8.8605557,-1.578227 c 0,0 7.7014843,43.279935 9.7300633,55.181935 0.688681,4.04045 4.962049,10.4906 11.521036,14.99478 6.558978,4.50417 15.071485,7.23033 24.034082,5.67445 8.949584,-1.55358 16.038141,-7.02364 20.692973,-13.52138 4.654832,-6.49773 6.50295,-14.07156 5.79039,-18.11269 L 69.710874,75.738253 C 62.025456,76.411582 55.271164,75.248215 49.94503,71.853728 43.594217,67.806186 39.682965,60.928321 38.224322,52.655944 l 8.86327,-1.562833 c 1.146077,6.499724 3.750251,10.658158 7.695295,13.172439 3.945042,2.514281 9.724363,3.556824 17.849019,2.124228 8.124656,-1.432596 13.19887,-4.38891 16.046062,-8.100846 2.847194,-3.711935 3.87205,-8.510265 2.725973,-15.009989 z M -5.558997,37.578607 c 12.202615,-2.15165 23.913608,6.048476 26.065258,18.251091 2.151651,12.202616 -6.048475,23.913608 -18.25109,26.065258 -12.202615,2.15165 -23.913608,-6.048474 -26.065258,-18.25109 -2.151651,-12.202615 6.048475,-23.913609 18.25109,-26.065259 z m 1.0418891,5.908847 C -13.526346,45.076025 -19.489813,53.592736 -17.901241,62.601977 -16.312669,71.611217 -7.7959561,77.574681 1.2132819,75.98611 10.22252,74.397538 16.185987,65.880828 14.597415,56.871587 13.008843,47.862346 4.49213,41.898882 -4.5171079,43.487454 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Lignes 1"
+     style="display:none">
+    <circle
+       style="display:inline;opacity:1;fill:none;stroke:#6dcff6;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       cx="132"
+       cy="60.048386"
+       r="19.5"
+       id="circle2386" />
+    <path
+       style="display:inline;fill:none;stroke:#6dcff6;stroke-width:9px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33,60 c 0,15 9,24 27,24 18,0 27,-9 27,-24 M 60,84 v 56 c 0,12 15.17221,31.11076 36.086105,31.05538 C 117,171 132.06845,151.99345 132,140 c -0.0685,-11.99345 0,-56 0,-56"
+       sodipodi:nodetypes="czccsscc"
+       id="path2388" />
+    <g
+       id="gbranche"
+       style="display:inline;stroke:#ff0000"
+       transform="translate(0,1.506434)">
+      <path
+         style="fill:none;stroke:#6dcff6;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 33,57 C 33,39 22.325309,3.8205837 42,9"
+         sodipodi:nodetypes="cc"
+         id="path2390" />
+      <ellipse
+         style="opacity:1;fill:#6dcff6;stroke:none;stroke-width:8.23682;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         cy="1.9864916"
+         cx="48.404102"
+         rx="5"
+         ry="4"
+         transform="rotate(10)"
+         id="ellipse2392" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#gbranche"
+       id="use1045"
+       transform="matrix(-1,0,0,1,120,0)"
+       width="100%"
+       height="100%"
+       style="display:inline;stroke:#ff0000" />
+    <g
+       id="g2017"
+       style="stroke:#ff0000"
+       transform="translate(0,1.506434)" />
+    <g
+       id="use2019"
+       style="stroke:#ff0000"
+       transform="matrix(-1,0,0,1,120,1.506434)" />
+  </g>
+  <ns0:tables
+     count="1">
+    <ns0:table
+       table-id="inkscape-table0"
+       rows="2"
+       columns="2" />
+  </ns0:tables>
+</svg>
