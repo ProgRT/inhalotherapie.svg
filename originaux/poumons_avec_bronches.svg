@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Inhalothérapie.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+   id="title3399">Inhalothérapie</title><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:document-units="px"
+   showgrid="true"
+   inkscape:snap-bbox="true"
+   inkscape:snap-nodes="false"
+   inkscape:bbox-paths="true"
+   inkscape:bbox-nodes="true"
+   inkscape:snap-bbox-edge-midpoints="true"
+   inkscape:snap-bbox-midpoints="true"
+   inkscape:zoom="1.9703792"
+   inkscape:cx="12.687913"
+   inkscape:cy="102.26458"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="layer5"
+   inkscape:snap-global="true"
+   showguides="true"
+   inkscape:showpageshadow="0"
+   inkscape:deskcolor="#d1d1d1"><inkscape:grid
+     type="xygrid"
+     id="grid824"
+     color="#3f8bff"
+     opacity="0.12549"
+     spacingx="1"
+     spacingy="1"
+     originx="0"
+     originy="0"
+     units="px"
+     visible="true" /><sodipodi:guide
+     position="90,90"
+     orientation="0,1"
+     id="guide4885"
+     inkscape:locked="false"
+     inkscape:label=""
+     inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+     position="90,90"
+     orientation="-1,0"
+     id="guide4887"
+     inkscape:locked="false"
+     inkscape:label=""
+     inkscape:color="rgb(0,134,229)" /></sodipodi:namedview>
+
+			 <defs
+   id="defs2"><style
+     id="style120"><![CDATA[
+.class1 { 
+}
+]]></style><style
+     id="style7266"><![CDATA[
+.class1 { 
+    stroke:none;
+    stroke-dasharray:none;
+    stroke-linejoin:round;
+    stroke-miterlimit:4;
+    stroke-opacity:3;
+}
+]]></style><symbol
+     id="TubeEndotrachéal"><title
+       id="title5020">Tube endotrachéal</title><use
+       xlink:href="#symbol23633"
+       id="use23637" /><g
+       id="symbol23633"><path
+         id="ellipse1865"
+         style="display:inline;opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 51.722779,166.96629 c -34.481853,-111.31086 -17.240926,-55.65543 0,0 z M 130.60742,31.298828 c 0,62.437735 -22.79697,95.032902 -46.552732,112.732422 1.193431,1.21684 2.27704,2.71507 3.210937,4.53711 0.653977,1.27591 1.125067,2.52382 1.445313,3.74023 C 114.99789,133.14857 140.0293,96.878668 140.0293,31.298828 Z M 49.097656,161.14258 c -0.03144,0.009 -0.06432,0.0186 -0.0957,0.0273 -9.747811,2.73156 -17.320483,3.23828 -18.34375,3.23828 v 9.42383 c 2.825396,0 10.218718,-0.61294 20.738281,-3.54687 -0.555676,-0.71094 -1.034249,-1.49806 -1.412109,-2.375 -0.929621,-2.1575 -1.175955,-4.45406 -0.886719,-6.76758 z M 144.07569,4.1695018 H 126.33596 V 19.876822 h 17.73973 z m 5.26673,19.2159962 h -28.27319 v 4.830497 h 28.27319 z"
+         sodipodi:nodetypes="ccccsccccccccscccccccccccc" /><path
+         d="M 84.388634,149.91581 C 93.95488,168.57963 59.023081,180.22356 52.984069,166.20804 46.945057,152.19251 74.822391,131.252 84.388634,149.91581 Z"
+         style="display:inline;opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path11964"
+         sodipodi:nodetypes="sss" /></g><title
+       id="title5024">Tube endotrachéal</title></symbol></defs><g
+   inkscape:groupmode="layer"
+   id="layer5"
+   inkscape:label="Calque principal"><path
+     style="fill:none;stroke:#000000;stroke-width:11.7899;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 78.235334,152.10922 C 83.57188,-75.216663 -1.8128637,61.178375 19.260886,157.79219 36.111453,138.58746 68.360646,133.48467 78.235334,152.10922 Z"
+     id="path1376"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" /><use
+     x="0"
+     y="0"
+     xlink:href="#path1376"
+     id="use1380"
+     transform="matrix(-0.99999998,0,0,0.99999998,180,7.0214959e-5)"
+     width="100%"
+     height="100%"
+     style="fill:none;stroke:#000000" /><path
+     style="fill:none;stroke:#000000;stroke-width:11.7899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 48.735517,104.73763 90,81.157998 V 16.313735"
+     id="path1382"
+     inkscape:connector-curvature="0" /><path
+     style="fill:none;stroke:#000000;stroke-width:11.7899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 90,81.157998 41.26448,23.579632"
+     id="path1384"
+     inkscape:connector-curvature="0" /></g><metadata
+   id="metadata3397"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>Inhalothérapie</dc:title><dc:creator><cc:Agent><dc:title>Nicolas Blais St-Laurent</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata></svg>

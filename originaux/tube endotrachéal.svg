@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tube endotrachéal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#9d9d9d"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:snap-global="true"
+     inkscape:zoom="2.6711332"
+     inkscape:cx="87.603269"
+     inkscape:cy="104.82442"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-grids="true"
+     scale-x="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       spacingx="0.79375"
+       spacingy="0.79375" />
+    <sodipodi:guide
+       position="33.762418,38.685146"
+       orientation="1,0"
+       id="guide997" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect3424">
+      <path
+         id="mask-powermask-path-effect3424_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="m 6.318298,7.73125 h 29.634745 v 38.0127 H 6.318298 Z" />
+      <path
+         id="path3422"
+         style="fill:#000000;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 21.911884,38.217851 c 3.050992,5.952508 -8.089916,9.666144 -10.015958,5.196131 -1.926041,-4.470017 6.964966,-11.148642 10.015958,-5.196131 z"
+         sodipodi:nodetypes="zzz" />
+    </mask>
+    <symbol
+       id="symbol1852">
+      <ellipse
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path1272"
+         cx="0"
+         cy="0"
+         rx="15"
+         ry="12"
+         transform="rotate(-15)" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rectCollerette"
+       width="28.273188"
+       height="3.1414638"
+       x="-149.34242"
+       y="25.01829"
+       transform="scale(-1,1)"
+       ry="0" />
+    <rect
+       style=""
+       id="rectConnecteur"
+       width="15.707308"
+       height="15.70732"
+       x="-143.05948"
+       y="6.1695018"
+       transform="scale(-1,1)" />
+    <path
+       d="m 33.762418,8.73125 c 0,32.566053 -24.492414,34.822075 -26.44412,34.822075"
+       id="pathTube"
+       style="stroke-miterlimit:4;stroke-width:2.38125;stroke:#ffffff;fill:none;display:inline;"
+       sodipodi:nodetypes="cc"
+       mask="url(#mask-powermask-path-effect3424)"
+       transform="matrix(3.9577505,0,0,3.9577505,1.6935793,-3.2548915)"
+       inkscape:original-d="m 33.762418,8.73125 c 0,32.566053 -24.492414,34.822075 -26.44412,34.822075" />
+    <use
+       id="use1956"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(3.9577505,0,0,3.9577505,1.6935793,-3.2548915)"
+       style="display:inline" />
+    <path
+       id="ellipse1865"
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 85.613849,149.3841 c 10.323665,20.14155 -27.373909,32.70741 -33.89107,17.58219 -6.51716,-15.12522 23.567405,-37.72374 33.89107,-17.58219 z"
+       sodipodi:nodetypes="zzz" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vect"
+     style="display:inline" />
+</svg>
