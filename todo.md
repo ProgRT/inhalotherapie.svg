@@ -1,6 +1,6 @@
 ---
 ---
-- [ ] Utiliser Inhalothérapie.svg pour la page de simvent.js
-- [ ] Créer une page web pour le projet
-- [ ] Rapatrier les originaux
-- [ ] Faire le ménage du dossier de projet
+- [X] Utiliser Inhalothérapie.svg pour la page de simvent.js
+- [X] Créer une page web pour le projet
+- [X] Rapatrier les originaux
+- [X] Faire le ménage du dossier de projet
