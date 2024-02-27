@@ -7,6 +7,9 @@ inhalotherapie.svg: Inhalothérapie.svg
 		Inhalothérapie.svg
 	git add inhalotherapie.svg
 
+thumbnail.png:
+	inkscape --export-area-drawing --export-filename thumbnail.png Inhalothérapie.svg
+
 install:
 	cp Inhalothérapie.svg ~/.config/inkscape/symbols/
 
