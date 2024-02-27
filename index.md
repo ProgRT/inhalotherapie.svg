@@ -4,7 +4,7 @@ subtitle: Ensemble d'icones au sujet des soins respiratoires
 layout: default
 icones: 
   - Stéthoscope
-  - Nébuliseur
+  - BoitierNébuliseur
   - MasqueAérosol
   - Poumons
   - PoumonsAvecBronches

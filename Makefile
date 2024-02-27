@@ -1,8 +1,5 @@
 .PHONY: install
 
-#nothing:
-#	$(error No default target in makefile.)
-
 inhalotherapie.svg: Inhalothérapie.svg
 	inkscape \
 		--export-plain-svg \
